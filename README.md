@@ -57,7 +57,7 @@ Change `userName` to your Github username, change `repoName` to the repo of your
 
 Input this formula to pin any Github repo:
 
-`[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=userName&repo=repoName)](https://github.com/anuraghazra/repoLink)`
+`[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=userName&repo=repoName)](https://github.com/userName/repoLink)`
 
 
 #
