@@ -45,6 +45,23 @@ This card is small, displaying the amount of times your Github profile has been 
 
 Like always, change `userName` to your Github username.
 
+###### I recommend added this last.
+
+#
+
+## Special Pins
+
+These are like highlighted repos.
+
+Change `userName` to your Github username, change `repoName` to the repo of your choosing, and `repoLink` to the link of the repository you want to pin.
+
+Input this formula to pin any Github repo:
+
+`[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=userName&repo=repoName)](https://github.com/anuraghazra/repoLink)`
+
+
+#
+
 # That's it!
 
 #### Congrats! You have now made you profile README a bit more interesting!
