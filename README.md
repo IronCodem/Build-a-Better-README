@@ -1,4 +1,4 @@
-# Build-a-Better-README
+# **Build-a-Better-README**
 
 [@PluginPenguin]()
   
@@ -31,4 +31,22 @@ The Top Langs card is a card which shows your top 5, most-used languages.
 
 `![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userName&layout=compact&theme=yourTheme)`
 
-Like for the Stats card change the `userName` slots with your Github username and `yourTheme` with the Github-friendly themes from the [stats section]("")
+Like for the Stats card change the `userName` slots with your Github username and `yourTheme` with the Github-friendly themes from the [stats section](https://github.com/PluginPenguin/Build-a-Better-README#github-stats)
+
+#
+
+## Profile Views
+
+This card is small, displaying the amount of times your Github profile has been viewed.
+
+###### One downfall to this is that if you view your own profile, it counts that 1 more view.
+
+`![](https://komarev.com/ghpvc/?username=userName)`
+
+Like always, change `userName` to your Github username.
+
+# That's it!
+
+#### Congrats! You have now made you profile README a bit more interesting!
+
+###### Made with 💖 and a computer 💻
