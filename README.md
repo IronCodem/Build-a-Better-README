@@ -66,4 +66,4 @@ Input this formula to pin any Github repo:
 
 #### Congrats! You have now made you profile README a bit more interesting!
 
-###### Made with 💖 and a computer 💻
+###### Made with ❤ and a computer 💻
