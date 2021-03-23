@@ -11,7 +11,7 @@ Github stats are a card that show your overall Github status.
 `![userName's GitHub stats](https://github-readme-stats.vercel.app/api?username=userName&show_icons=true&theme=yourTheme)`
 
 Just change the `userName` slots with your Github username and `yourTheme` with the following themes available in Github:
-- [x] cobalt = `&theme=cobalt` (my favourite - this theme is in my README)
+- [x] cobalt = `&theme=cobalt`
 - [x] synthwave = `&theme=synthwave`
 - [x] tokyonight = `&theme=tokyonight`
 - [x] onedark = `&theme=onedark`
